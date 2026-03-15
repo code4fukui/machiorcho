@@ -1,4 +1,7 @@
 # machiorcho
+
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 A quiz app that tests the user's knowledge of Japanese city and town names.
 
 ## Demo
