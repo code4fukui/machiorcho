@@ -16,4 +16,4 @@ A quiz app that tests the user's knowledge of Japanese city and town names.
 The quiz questions are generated using data from the [Address Base Registry by the Digital Agency](https://www.digital.go.jp/policies/base_registry_address/), provided by [Code for FUKUI](https://github.com/code4fukui/address-japan) in the [city.csv](https://code4fukui.github.io/address-japan/data/city.csv) file.
 
 ## License
-This project is licensed under the MIT License.
+MIT License — see [LICENSE](LICENSE).
